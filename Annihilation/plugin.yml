@@ -1,0 +1,8 @@
+name: Annihilation
+main: me.D0mes.Annihilation.Annihilation
+author: D0mes
+version: 1.1
+description: Minecraft minigame plugin
+commands:
+  anni:
+    description: Main command.
